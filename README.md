@@ -26,6 +26,18 @@ Instead of creating multiple disconnected projects, I am continuously improving 
 - Calculated sales
 - Performed basic product-level sales analysis
 
+### Day 2 — Data Cleaning
+
+- Created a raw/cleaned data structure
+- Performed data quality checks
+- Identified missing values
+- Detected duplicate records
+- Detected invalid quantities
+- Standardized categorical values
+- Converted dates to datetime format
+- Created a cleaned dataset
+- Added post-cleaning validation
+
 ## 🚧 Upcoming
 
 The project will gradually evolve with:

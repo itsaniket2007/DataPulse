@@ -1,0 +1,14 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Region,Quantity,Unit_Price,Discount,Payment_Method,Returned,Sales
+1001,2026-01-03,C001,Laptop,Electronics,North,1,65000,0.05,UPI,No,65000
+1002,2026-01-04,C002,Mouse,Accessories,South,2,800,0.0,Credit Card,No,1600
+1003,2026-01-05,C003,Keyboard,Accessories,West,1,1800,0.1,UPI,No,1800
+1004,2026-01-06,C004,Monitor,Electronics,East,1,15000,0.05,Debit Card,No,15000
+1005,2026-01-08,C005,Headphones,Accessories,North,2,2500,0.0,UPI,Yes,5000
+1007,2026-01-11,C007,Mouse,Accessories,West,3,750,0.0,Cash,No,2250
+1008,2026-01-13,C008,Monitor,Electronics,East,2,14000,0.1,UPI,No,28000
+1010,2026-01-16,C010,Headphones,Accessories,South,1,2800,0.0,UPI,Yes,2800
+1011,2026-01-18,C011,Laptop,Electronics,West,1,68000,0.05,Credit Card,No,68000
+1012,2026-01-20,C012,Monitor,Electronics,North,1,15500,0.0,UPI,No,15500
+1013,2026-01-22,C013,Mouse,Accessories,East,4,700,0.05,Cash,No,2800
+1014,2026-01-24,C014,Keyboard,Accessories,South,1,2100,0.0,Debit Card,No,2100
+1015,2026-01-25,C015,Headphones,Accessories,West,2,2600,0.1,UPI,No,5200
