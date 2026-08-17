@@ -51,11 +51,20 @@ Instead of creating multiple disconnected projects, I am continuously improving 
 - Investigated returned products
 - Documented initial business insights
 
+### Day 4 — Data Visualization
+
+- Introduced Matplotlib for business visualization
+- Created product performance chart
+- Created category performance chart
+- Created regional performance chart
+- Created daily sales trend
+- Analyzed payment method usage
+- Added chart interpretations and business implications
+
 ## 🚧 Upcoming
 
 The project will gradually evolve with:
 
-- Data visualization
 - Advanced Pandas
 - SQL
 - Customer analytics
