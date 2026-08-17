@@ -38,12 +38,23 @@ Instead of creating multiple disconnected projects, I am continuously improving 
 - Created a cleaned dataset
 - Added post-cleaning validation
 
+### Day 3 — Exploratory Data Analysis
+
+- Created gross sales, discount amount, and net sales metrics
+- Extracted month information from order dates
+- Analyzed product performance
+- Analyzed category performance
+- Analyzed regional performance
+- Calculated Average Order Value
+- Analyzed discount impact
+- Calculated return rate
+- Investigated returned products
+- Documented initial business insights
+
 ## 🚧 Upcoming
 
 The project will gradually evolve with:
 
-- Data cleaning
-- Exploratory data analysis
 - Data visualization
 - Advanced Pandas
 - SQL
