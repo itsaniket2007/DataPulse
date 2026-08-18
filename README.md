@@ -61,6 +61,17 @@ Instead of creating multiple disconnected projects, I am continuously improving 
 - Analyzed payment method usage
 - Added chart interpretations and business implications
 
+### Day 5 — Advanced Exploratory Data Analysis
+
+- Introduced Pandas pivot tables
+- Compared category and regional performance
+- Analyzed discount and sales relationships
+- Introduced correlation analysis
+- Created scatter plots
+- Investigated numerical relationships
+- Analyzed extreme-value orders
+- Documented business interpretations
+
 ## 🚧 Upcoming
 
 The project will gradually evolve with:
