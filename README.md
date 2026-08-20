@@ -72,6 +72,17 @@ Instead of creating multiple disconnected projects, I am continuously improving 
 - Analyzed extreme-value orders
 - Documented business interpretations
 
+### Day 6 — Realistic Dataset Generation
+
+- Expanded the prototype from 15 orders to 5,000 orders
+- Added 500 customers
+- Added 8 products
+- Added 18 months of order dates
+- Added realistic regional and payment distributions
+- Added weighted return probabilities
+- Generated business metrics
+- Performed dataset sanity checks
+
 ## 🚧 Upcoming
 
 The project will gradually evolve with:
