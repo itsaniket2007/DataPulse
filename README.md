@@ -83,6 +83,17 @@ Instead of creating multiple disconnected projects, I am continuously improving 
 - Generated business metrics
 - Performed dataset sanity checks
 
+### Day 7 — Reusable Data Cleaning Pipeline
+
+- Built a reusable Python data-cleaning function
+- Standardized dataset columns
+- Validated dates and numerical fields
+- Removed duplicate and incomplete records
+- Recalculated business metrics
+- Added year, month, month name and day name features
+- Created a validation summary
+- Exported the main cleaned DataPulse dataset
+
 ## 🚧 Upcoming
 
 The project will gradually evolve with:
