@@ -94,6 +94,19 @@ Instead of creating multiple disconnected projects, I am continuously improving 
 - Created a validation summary
 - Exported the main cleaned DataPulse dataset
 
+### Day 8 — Time-Series Analysis
+
+- Introduced Pandas time-series analysis
+- Converted dates into a time-series index
+- Created monthly revenue metrics
+- Calculated monthly order volume
+- Calculated monthly AOV
+- Calculated month-over-month growth
+- Introduced moving averages
+- Identified strongest and weakest months
+- Analyzed revenue trends
+- Created a processed monthly analytics dataset
+
 ## 🚧 Upcoming
 
 The project will gradually evolve with:
