@@ -101,7 +101,7 @@ Instead of creating multiple disconnected projects, I am continuously improving 
 - Created monthly revenue metrics
 - Calculated monthly order volume
 - Calculated monthly AOV
-- Calculated month-over-month growth
+- Calculated month-over-month groowth
 - Introduced moving averages
 - Identified strongest and weakest months
 - Analyzed revenue trends
