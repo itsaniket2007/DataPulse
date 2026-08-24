@@ -107,6 +107,20 @@ Instead of creating multiple disconnected projects, I am continuously improving 
 - Analyzed revenue trends
 - Created a processed monthly analytics dataset
 
+### Day 9 — KPI & Performance Analysis
+
+- Created DataPulse core business KPIs
+- Built category performance analysis
+- Built regional performance analysis
+- Built product performance rankings
+- Calculated revenue contribution
+- Introduced Pandas `transform()`
+- Introduced ranking analysis
+- Built monthly KPI table
+- Created processed business-performance datasets
+- Documented business insights
+
+
 ## 🚧 Upcoming
 
 The project will gradually evolve with:
