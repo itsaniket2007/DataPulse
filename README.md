@@ -120,6 +120,19 @@ Instead of creating multiple disconnected projects, I am continuously improving 
 - Created processed business-performance datasets
 - Documented business insights
 
+### Day 10 — Customer Analytics
+
+- Created customer-level analytical dataset
+- Calculated customer revenue and order frequency
+- Identified highest-value customers
+- Analyzed customer revenue distribution
+- Introduced quantile-based customer segmentation
+- Created Low / Mid-Low / Mid-High / High Value segments
+- Analyzed revenue concentration
+- Performed Pareto analysis
+- Calculated repeat customer rate
+- Saved customer analytics datasets
+
 
 ## 🚧 Upcoming
 
