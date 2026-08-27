@@ -133,6 +133,29 @@ Instead of creating multiple disconnected projects, I am continuously improving 
 - Calculated repeat customer rate
 - Saved customer analytics datasets
 
+### Day 11 — RFM Customer Segmentation
+
+- Introduced RFM customer analytics
+- Calculated Recency, Frequency and Monetary metrics
+- Created RFM scores
+- Segmented customers into behavioral groups
+- Identified Champions and At-Risk customers
+- Calculated segment-level revenue contribution
+- Connected customer segments with potential business actions
+- Created RFM analytical datasets
+
+### Day 12 — Cohort Retention Analysis
+
+- Introduced customer cohort analysis
+- Identified each customer's first purchase month
+- Created monthly customer cohorts
+- Calculated months since first purchase
+- Built a cohort retention matrix
+- Calculated Month 1 and Month 3 retention
+- Compared retention across acquisition cohorts
+- Visualized cohort retention
+- Added retention datasets to the processed data layer
+
 
 ## 🚧 Upcoming
 
