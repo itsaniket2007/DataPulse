@@ -156,6 +156,18 @@ Instead of creating multiple disconnected projects, I am continuously improving 
 - Visualized cohort retention
 - Added retention datasets to the processed data layer
 
+### Day 13 — Customer Retention Deep Dive
+
+- Built average customer retention curve
+- Quantified Month 1 to Month 3 retention decline
+- Calculated repeat purchase rate
+- Compared one-time and repeat customers
+- Created historical customer value proxy
+- Analyzed customer lifespan
+- Connected retention analysis with RFM segmentation
+- Identified business implications of repeat purchasing
+- Saved customer retention datasets
+
 
 ## 🚧 Upcoming
 
