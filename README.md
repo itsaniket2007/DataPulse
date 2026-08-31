@@ -168,6 +168,19 @@ Instead of creating multiple disconnected projects, I am continuously improving 
 - Identified business implications of repeat purchasing
 - Saved customer retention datasets
 
+### Day 14 — Product & Category Deep-Dive
+
+- Built detailed product performance analysis
+- Compared revenue and sales volume
+- Analyzed product pricing
+- Analyzed product discount patterns
+- Calculated product revenue contribution
+- Built product × region analysis
+- Identified regional product leaders
+- Built category performance analysis
+- Created product performance segments
+- Introduced multi-dimensional `idxmax()` analysis
+
 
 ## 🚧 Upcoming
 
