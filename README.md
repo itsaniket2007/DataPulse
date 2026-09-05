@@ -181,6 +181,19 @@ Instead of creating multiple disconnected projects, I am continuously improving 
 - Created product performance segments
 - Introduced multi-dimensional `idxmax()` analysis
 
+### Day 15 — Returns, Discounts & Order Quality Analysis
+
+- Analyzed order-level business KPIs
+- Calculated return rate
+- Analyzed revenue associated with returned transactions
+- Compared product-level return rates
+- Compared regional return rates
+- Analyzed product discounting
+- Compared discounts between returned and non-returned transactions
+- Introduced conditional aggregation
+- Investigated revenue and return-rate trade-offs
+- Generated automated data-driven insights
+- Documented analytical limitations
 
 ## 🚧 Upcoming
 

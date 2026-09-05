@@ -1,0 +1,5 @@
+region,Orders,Returned_Orders,Revenue,Return_Rate
+East,1265,83,72130300.0,6.56
+North,1234,100,67614895.0,8.1
+South,1274,107,69978440.0,8.4
+West,1227,94,69370665.0,7.66
