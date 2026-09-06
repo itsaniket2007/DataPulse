@@ -195,6 +195,20 @@ Instead of creating multiple disconnected projects, I am continuously improving 
 - Generated automated data-driven insights
 - Documented analytical limitations
 
+### Day 16 — SQL Business Analysis
+
+- Introduced SQLite database workflow
+- Loaded DataPulse sales data into a SQL table
+- Learned SELECT and filtering fundamentals
+- Used ORDER BY and LIMIT for ranking
+- Used COUNT, SUM and AVG aggregations
+- Introduced GROUP BY for business analysis
+- Analyzed revenue by region, product and category
+- Analyzed product return rates using CASE WHEN
+- Recreated monthly revenue analysis using SQL
+- Cross-validated SQL results against Python calculations
+- Added reusable SQL analysis scripts
+
 ## 🚧 Upcoming
 
 The project will gradually evolve with:
