@@ -209,6 +209,21 @@ Instead of creating multiple disconnected projects, I am continuously improving 
 - Cross-validated SQL results against Python calculations
 - Added reusable SQL analysis scripts
 
+### Day 17 — SQL Filtering & Business Analysis
+
+- Introduced SQL WHERE filtering
+- Used AND and OR conditions
+- Used IN for multi-category filtering
+- Used BETWEEN for date-based analysis
+- Used LIKE for text filtering
+- Introduced IS NULL
+- Learned WHERE vs HAVING
+- Used HAVING with aggregated metrics
+- Introduced basic subquery usage
+- Answered region, time-period and product business questions
+- Generated data-driven SQL insights
+
+
 ## 🚧 Upcoming
 
 The project will gradually evolve with:
