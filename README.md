@@ -223,6 +223,22 @@ Instead of creating multiple disconnected projects, I am continuously improving 
 - Answered region, time-period and product business questions
 - Generated data-driven SQL insights
 
+### Day 18 — SQL JOINs & Customer-Level Analysis
+
+- Introduced relational database concepts
+- Created customer-level summary table
+- Created product-level summary table
+- Learned INNER JOIN
+- Learned LEFT JOIN
+- Learned table aliases
+- Connected transaction-level and customer-level data
+- Connected customer and product analytical layers
+- Analyzed high-value customers
+- Calculated repeat customer rate using SQL
+- Analyzed customer revenue concentration
+- Used LEFT JOIN for data-quality validation
+- Built multi-table analytical queries
+
 
 ## 🚧 Upcoming
 
