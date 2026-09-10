@@ -1,0 +1,6 @@
+check_name,row_count
+sales_before_join,5000
+inner_join_customer_summary,5000
+left_join_customer_summary,5000
+three_table_join_rows,5000
+distinct_order_ids_after_join,5000

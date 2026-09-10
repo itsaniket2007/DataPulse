@@ -239,6 +239,16 @@ Instead of creating multiple disconnected projects, I am continuously improving 
 - Used LEFT JOIN for data-quality validation
 - Built multi-table analytical queries
 
+### Day 19 — Advanced SQL JOIN Analysis & Data Validation
+
+- Compared INNER JOIN and LEFT JOIN at transaction level
+- Validated row counts before and after customer and product joins
+- Connected sales with customer and product summary layers at the correct grain
+- Analyzed customer-level category and product revenue
+- Identified high-value customer category and product preferences
+- Used LEFT JOIN + IS NULL to validate unmatched customer and product records
+- Saved reusable Day 19 JOIN-analysis outputs
+
 
 ## 🚧 Upcoming
 
