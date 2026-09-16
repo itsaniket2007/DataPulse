@@ -1,0 +1,9 @@
+category,product,order_count,units_sold,product_revenue,category_revenue,category_revenue_share_pct
+Electronics,Laptop,639,1917,115261250.0,263947000.0,43.67
+Electronics,Smartphone,649,1944,71852000.0,263947000.0,27.22
+Electronics,Tablet,602,1791,50097000.0,263947000.0,18.98
+Electronics,Monitor,651,1928,26736750.0,263947000.0,10.13
+Accessories,Webcam,616,1894,6120625.0,15147300.0,40.41
+Accessories,Headphones,633,1873,4321375.0,15147300.0,28.53
+Accessories,Keyboard,612,1835,3398100.0,15147300.0,22.43
+Accessories,Mouse,598,1769,1307200.0,15147300.0,8.63

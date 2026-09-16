@@ -1,0 +1,6 @@
+dataset,row_count
+monthly_cte_metrics,18
+customer_cte_metrics,500
+product_category_cte_metrics,8
+region_category_cte_comparison,8
+customer_cte_segments,2

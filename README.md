@@ -249,6 +249,17 @@ Instead of creating multiple disconnected projects, I am continuously improving 
 - Used LEFT JOIN + IS NULL to validate unmatched customer and product records
 - Saved reusable Day 19 JOIN-analysis outputs
 
+### Day 20 — SQL CTE Business Analysis
+
+- Introduced `WITH` and Common Table Expression (CTE) syntax
+- Built reusable monthly, customer, product, category, and region intermediate datasets
+- Calculated monthly revenue, order, and average-order-value metrics with CTEs
+- Compared customer revenue against the calculated customer average
+- Measured product contribution within its category
+- Combined multiple CTEs for region-category comparisons and customer segments
+- Added data-driven insights, limitations, recommendations, reusable CSV outputs, and charts
+- Documented why named CTE steps improve SQL readability and maintainability
+
 
 ## 🚧 Upcoming
 

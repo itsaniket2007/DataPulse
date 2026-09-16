@@ -1,0 +1,9 @@
+region,category,order_count,region_category_revenue,category_revenue,average_region_category_revenue,revenue_vs_category_region_average,category_revenue_share_pct
+East,Accessories,635,3895550.0,15147300.0,3786825.0,108725.0,25.72
+West,Accessories,614,3844915.0,15147300.0,3786825.0,58090.0,25.38
+South,Accessories,617,3766690.0,15147300.0,3786825.0,-20135.0,24.87
+North,Accessories,593,3640145.0,15147300.0,3786825.0,-146680.0,24.03
+East,Electronics,630,68234750.0,263947000.0,65986750.0,2248000.0,25.85
+South,Electronics,657,66211750.0,263947000.0,65986750.0,225000.0,25.09
+West,Electronics,613,65525750.0,263947000.0,65986750.0,-461000.0,24.83
+North,Electronics,641,63974750.0,263947000.0,65986750.0,-2012000.0,24.24
